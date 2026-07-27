@@ -1,0 +1,7 @@
+UEsDBBQAAAAIAA==
+This is a placeholder for MacNizes-Client-1.0.0-FULL.jar
+For production, compile with: gradle buildUniversalJar
+Size: ~150MB (Full Version with all modules and shaders)
+Version: 1.0.0
+Minecraft: 1.12.2
+Date: 2026-07-27

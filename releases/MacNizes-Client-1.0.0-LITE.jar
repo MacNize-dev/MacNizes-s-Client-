@@ -1,0 +1,8 @@
+UEsDBBQAAAAIAA==
+This is a placeholder for MacNizes-Client-1.0.0-LITE.jar
+For production, compile with: gradle buildUniversalJar
+Size: ~60MB (Lite Version with essential modules)
+Version: 1.0.0
+Minecraft: 1.12.2
+Date: 2026-07-27
+Recommended for: Low-End devices (2GB RAM)
