@@ -1,0 +1,63 @@
+{
+  "performance": {
+    "fps.booster.enabled": true,
+    "fps.booster.level": 3,
+    "memory.auto.manage": true,
+    "memory.max.mb": 2048,
+    "render.distance": 16,
+    "entity.limit": 256,
+    "chunk.loading.optimization": true
+  },
+  "graphics": {
+    "shader.enabled": false,
+    "shader.quality": "medium",
+    "shader.active": "none",
+    "dynamic.lights": true,
+    "particles": true,
+    "particles.multiplier": 1.0,
+    "fog.enabled": true,
+    "fog.distance": 64,
+    "vsync": false,
+    "animation.speed": 1.0
+  },
+  "mobile": {
+    "mode": true,
+    "low.memory.mode": false,
+    "cpu.throttle": false,
+    "battery.saver": false,
+    "touch.optimization": true,
+    "auto.detect.device": true
+  },
+  "gameplay": {
+    "hit.reticle": true,
+    "hit.reticle.style": "default",
+    "timer.multiplier": 1.0
+  },
+  "utility": {
+    "discord.rpc": true,
+    "screenshot.auto.upload": false,
+    "settings.sync": true,
+    "auto.update": false
+  },
+  "ui": {
+    "theme": "dark",
+    "scale": 1.0,
+    "animation": true,
+    "notification.enabled": true,
+    "hotkey.gui": "F6"
+  },
+  "modules": {
+    "FpsBooster.enabled": true,
+    "MemoryManager.enabled": true,
+    "ChunkOptimizer.enabled": true,
+    "EntityLimiter.enabled": true,
+    "ShaderSupport.enabled": false,
+    "DynamicLights.enabled": true,
+    "ParticleControl.enabled": true,
+    "FogControl.enabled": true,
+    "HitReticle.enabled": true,
+    "TimerMultiplier.enabled": false,
+    "DiscordRPC.enabled": true,
+    "ScreenshotManager.enabled": true
+  }
+}

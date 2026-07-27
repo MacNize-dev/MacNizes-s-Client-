@@ -1,0 +1,13 @@
+# GitIgnore for MacNize's Client
+build/
+*.jar
+*.class
+.gradle/
+.idea/
+*.iml
+macs-client/
+config/
+logs/
+screenshots/
+.DS_Store
+Thumbs.db
