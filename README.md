@@ -199,8 +199,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- 📧 **Email:** support@macnizes-client.dev
-- 💬 **Discord:** [Junte-se ao servidor](https://discord.gg/macnizes)
+- 📧 **Email:** contaparaalguemlegal49@gmail.com [E-mail temporário]
+- 💬 **Discord:** [servidor ainda sendo feito]
 - 🐛 **Issues:** [Reporte bugs aqui](https://github.com/MacNize-dev/MacNizes-s-Client-/issues)
 
 ## 🎯 Roadmap
