@@ -1,5 +1,7 @@
 on:
-  push:
+  push: git add .
+git commit -m "Trigger build"
+git push
     branches:
     - main
     - release/
